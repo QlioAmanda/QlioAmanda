@@ -1,13 +1,15 @@
-</small>hai👋</small>
+<small>hai👋</small>
 
-</sup>🎶 love listening to music, reading books, and watching action movies.</sup>
+<br>
+
+<sup>🎶 love listening to music, reading books, and watching action movies.</sup>
 
 <p>
-  <a href="https://www.instagram.com/mandaqx_?igsh=OXRuMHNpZ29xcWph" target="_blank">
-    <img src="https://img.shields.io/badge/-mandaqx__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/qliomdx_" target="_blank">
+    <img src="https://img.shields.io/badge/-qliomdx__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/qlio-amanda-f-01304a380" target="_blank">
+  <a href="https://www.linkedin.com/in/qlio-amanda-febriany-01304a380" target="_blank">
     <img src="https://img.shields.io/badge/-qlio%20amanda%20f-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
@@ -16,24 +18,32 @@
   </a>
 </p>
 
+<br>
+
 <small>🛠️ tech stack (masih di tahap belajar)</small>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QlioAmanda/QlioAmanda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QlioAmanda/QlioAmanda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/QlioAmanda/QlioAmanda/output/pacman-contribution-graph.svg">
 </picture>
-
-###
