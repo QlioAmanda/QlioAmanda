@@ -5,22 +5,22 @@
 <sup>🎶 love listening to music, reading books, and watching action movies.</sup>
 
 <p>
-  <a href="https://www.instagram.com/qliomdx_" target="_blank">
-    <img src="https://img.shields.io/badge/-qliomdx__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/itsamandaqf._" target="_blank">
+    <img src="https://img.shields.io/badge/-itsamandaqf91.___-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
   <a href="https://www.linkedin.com/in/qlio-amanda-febriany-01304a380" target="_blank">
     <img src="https://img.shields.io/badge/-qlio%20amanda%20f-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="mailto:qlioamanda@gmail.com">
-    <img src="https://img.shields.io/badge/-qlioamanda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:qlioamandaf@gmail.com">
+    <img src="https://img.shields.io/badge/-qlioamandaf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br>
 
-<small>🛠️ tech stack (masih di tahap belajar)</small>
+<small>🛠️ tech stack</small>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
